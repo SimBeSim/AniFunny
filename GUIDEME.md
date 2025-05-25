@@ -70,6 +70,7 @@ Ik zal:
 
 ### 📁 Bestandsindeling
 
+* `PLANME.md` → de 3 lagen van AniFunny
 * `README.md` → uitleg voor nieuwe gebruikers
 * `GUIDEME.md` → projectroutekaart (dit bestand)
 * `STRUCTURE.md` → overzicht mappen, functies, flow
