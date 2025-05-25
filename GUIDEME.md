@@ -1,4 +1,4 @@
-## 🛣️ PLANME.md – Projectroutekaart AniFunny
+## 🛣️ GUIDEME.md – Projectroutekaart AniFunny
 
 *(Dit document bevat nu ook onze samenwerkings-eed onderaan)*
 
@@ -71,7 +71,7 @@ Ik zal:
 ### 📁 Bestandsindeling
 
 * `README.md` → uitleg voor nieuwe gebruikers
-* `PLANME.md` → projectroutekaart (dit bestand)
+* `GUIDEME.md` → projectroutekaart (dit bestand)
 * `STRUCTURE.md` → overzicht mappen, functies, flow
 * `ani_core.py` → kernfunctionaliteit
 * `ani_gui.py` → toekomstige gebruikersinterface
